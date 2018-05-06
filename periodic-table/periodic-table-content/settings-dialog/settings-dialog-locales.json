@@ -185,5 +185,22 @@
     "noble gas": "gaz szlachetny",
     "lanthanide": "lantanowiec",
     "actinide": "aktynowiec"
+  },
+  "zh-cn":
+  {
+    "settings": "设置",
+    "language": "语言",
+    "temperature" : "温度",
+
+    "alkali metal": "碱金属",
+    "alkaline earth metal": "碱土金属",
+    "transition metal": "过渡金属",
+    "post transition metal": "后过渡金属",
+    "metalloid": "类金属",
+    "other nonmetal": "其它非金属",
+    "halogen": "卤素",
+    "noble gas": "惰性气体",
+    "lanthanide": "镧系",
+    "actinide": "锕系"
   }
 }
